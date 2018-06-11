@@ -13,6 +13,7 @@ How the program works:
   After the program has finished reading the file, the player now starts traversing the maze(2d vector) until
   it finds the exit. If no exit is found, then displays a "No exit found" message.  
   
-  *** The program decides which moves to take, the user only specifies which file they want to run(change the file name ) **** 
+  *** The program decides which moves to take, the user only specifies which 
+      file they want to run(change the file name to your desired one in the driver.cpp file on line 90) **** 
     
     
